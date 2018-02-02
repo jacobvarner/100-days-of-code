@@ -15,3 +15,8 @@ You can read my goals for the challenge in the [blog post here](https://medium.c
 To kick off the first day of the challenge, I made a few updates to my [personal site](https://www.jacobvarner.com) as well as switching it and all of the sites connected to it to HTTPS which is something I've been meaning to do, but didn't realize how easy it was. I got all of my sites running on HTTPS within 15 minutes with the help of Cloudflare.
 
 Since I barely spent an hour actually coding today, I spent the rest of my free time today knocking out most of the basic JavaScript section of the freeCodeCamp Front-end Certification. My plan is to finish the basic stuff soon so that I can get to the JavaScript projects and hopefully start the React section as soon as possible.
+
+### R1D2
+Instead of powering through the JavaScript section of freeCodeCamp today, I decided to start playing around with CSS Grid. I read a cool [Medium post](https://medium.freecodecamp.org/how-to-make-your-html-responsive-by-adding-a-single-line-of-css-2a62de81e431) that explained it in the simplest terms, so I decided to build a [CSS Grid playground](https://github.com/jacobvarner/css-grid-layouts) for testing and practiciing with layouts that I will hopefully use in future projects.
+
+In the future I plan to use this as a playground for testing and building different CSS Grid layouts. I also plan to start watching Wes Bos's videos on CSS Grid to get a better grasp on the new technology.
