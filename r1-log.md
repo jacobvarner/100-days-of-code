@@ -20,3 +20,6 @@ Since I barely spent an hour actually coding today, I spent the rest of my free 
 Instead of powering through the JavaScript section of freeCodeCamp today, I decided to start playing around with CSS Grid. I read a cool [Medium post](https://medium.freecodecamp.org/how-to-make-your-html-responsive-by-adding-a-single-line-of-css-2a62de81e431) that explained it in the simplest terms, so I decided to build a [CSS Grid playground](https://github.com/jacobvarner/css-grid-layouts) for testing and practiciing with layouts that I will hopefully use in future projects.
 
 In the future I plan to use this as a playground for testing and building different CSS Grid layouts. I also plan to start watching Wes Bos's videos on CSS Grid to get a better grasp on the new technology.
+
+### R1D3
+Finished up the JavaScript section on [freeCodeCamp](https://www.freecodecamp.org) which included actually learning about RegEx for the first time. I've used a few Regular Expressions before, but I've always had to look them up in order to use certain search expressions. I look forward to getting to the sections of freeCodeCamp that won't be as much of a review so I can really start getting a grasp on more of the things JavaScript has to offer.
