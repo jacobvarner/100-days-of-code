@@ -23,3 +23,8 @@ In the future I plan to use this as a playground for testing and building differ
 
 ### R1D3
 Finished up the JavaScript section on [freeCodeCamp](https://www.freecodecamp.org) which included actually learning about RegEx for the first time. I've used a few Regular Expressions before, but I've always had to look them up in order to use certain search expressions. I look forward to getting to the sections of freeCodeCamp that won't be as much of a review so I can really start getting a grasp on more of the things JavaScript has to offer.
+
+### R1D4
+Finished the Object Oriented Programming section on [freeCodeCamp](https://www.freecodecamp.org). It was really helpful to go over some of the convenient functions built in that allowed sorting, traversing, and modifying arrays. I had made some of these functions myself in the past and it will be nice to use the built in functions going forward.
+
+I also decided to add a cool announcement dropdown to my [personal site](https://www.jacobvarner.com) to let people know that I am currently in the middle of this challenge so that they can follow along. It also allows me to re-use it for other announcements in the future.
