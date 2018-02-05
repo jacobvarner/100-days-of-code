@@ -28,3 +28,6 @@ Finished up the JavaScript section on [freeCodeCamp](https://www.freecodecamp.or
 Finished the Object Oriented Programming section on [freeCodeCamp](https://www.freecodecamp.org). It was really helpful to go over some of the convenient functions built in that allowed sorting, traversing, and modifying arrays. I had made some of these functions myself in the past and it will be nice to use the built in functions going forward.
 
 I also decided to add a cool announcement dropdown to my [personal site](https://www.jacobvarner.com) to let people know that I am currently in the middle of this challenge so that they can follow along. It also allows me to re-use it for other announcements in the future.
+
+### R1D5
+Completed the first 10 [freeCodeCamp](https://www.freecodecamp.org) algorithm challenges. A little easier to start, but it was nice to get more comfortable with arrays and strings.
