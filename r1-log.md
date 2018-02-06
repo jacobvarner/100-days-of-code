@@ -31,3 +31,8 @@ I also decided to add a cool announcement dropdown to my [personal site](https:/
 
 ### R1D5
 Completed the first 10 [freeCodeCamp](https://www.freecodecamp.org) algorithm challenges. A little easier to start, but it was nice to get more comfortable with arrays and strings.
+
+### R1D6
+Finished the final six basic algorithm challenges on [freeCodeCamp](https://www.freecodecamp.org). These algorithms certainly helped me to nail down the usefulness of various string and array functions. Some of the later algorithms really required me to get out paper to think through them spacially as well.
+
+Today was the first day where I found it hard to fit in the challenge and couldn't start my coding until after 11:00pm. I still managed to get a good hour and a half of work in finishing up the last challenges and now I'm ready to get back into a building mindset over the next few days to give my brain a break from the algorithm type of problem solving.
