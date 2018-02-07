@@ -39,3 +39,6 @@ Today was the first day where I found it hard to fit in the challenge and couldn
 
 ### R1D7
 Today I knocked out the short [freeCodeCamp](https://www.freecodecamp.org) section on JSON and API calls which was some nice new knowledge. I then used the new knowledge to build a [simple random quote generator](https://codepen.io/jacobvarner/pen/xYEJGg) in order to complete the first of the intermediate projects. It's good to finally take the time to really learn how APIs work and I look forward to the endless possiblities adding APIs can bring to my future web apps.
+
+### R1D8
+Today I built a [simple wigit to show the weather at the current location](https://codepen.io/jacobvarner/pen/eVByKV) as part of the second [freeCodeCamp](https://www.freecodecamp.org) intermediate projects. This was easy to build up until I had to deal with the weather API. I finally found out that it was trying to talk to the API before I had stored valid values for the location, so it kept giving me an error in the consol. I then made sure to only call the updateWeather() function once I had the location already.
