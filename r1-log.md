@@ -36,3 +36,6 @@ Completed the first 10 [freeCodeCamp](https://www.freecodecamp.org) algorithm ch
 Finished the final six basic algorithm challenges on [freeCodeCamp](https://www.freecodecamp.org). These algorithms certainly helped me to nail down the usefulness of various string and array functions. Some of the later algorithms really required me to get out paper to think through them spacially as well.
 
 Today was the first day where I found it hard to fit in the challenge and couldn't start my coding until after 11:00pm. I still managed to get a good hour and a half of work in finishing up the last challenges and now I'm ready to get back into a building mindset over the next few days to give my brain a break from the algorithm type of problem solving.
+
+### R1D7
+Today I knocked out the short [freeCodeCamp](https://www.freecodecamp.org) section on JSON and API calls which was some nice new knowledge. I then used the new knowledge to build a [simple random quote generator](https://codepen.io/jacobvarner/pen/xYEJGg) in order to complete the first of the intermediate projects. It's good to finally take the time to really learn how APIs work and I look forward to the endless possiblities adding APIs can bring to my future web apps.
