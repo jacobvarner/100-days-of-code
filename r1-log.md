@@ -47,3 +47,6 @@ Today I built a [simple wigit to show the weather at the current location](https
 Finally recamped my [resume](https://www.jacobvarner.com/resume.pdf) after reading another article on tips for resumes. I have made too many modifications and it was juzt time go re-do the entitre thing. It was also good to convert it back to a Word dock. It might not look as good as my other one, but it certainly will be easier to modify and update going forward.
 
 I also atarted reading the first book in the You Don't Know JavaScript seriss: Up and Going. Looking forward to hopefully nailing down the basics of JavaScript with this series.
+
+### R1D10
+I got most of the Wikipedia Viewer project done for freeCodeCamp. I spent a lot more time on the styling and some transitions so I wasn't able to get to the rest of the JavaScript functionality. I figured out the CORS error and have the results in a simple array after fetching the JSON via the API. Tomorrow or Sunday I should be able to finish this project fairly quickly and move on to the last freeCodeCamp intermediate project.
