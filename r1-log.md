@@ -42,3 +42,8 @@ Today I knocked out the short [freeCodeCamp](https://www.freecodecamp.org) secti
 
 ### R1D8
 Today I built a [simple wigit to show the weather at the current location](https://codepen.io/jacobvarner/pen/eVByKV) as part of the second [freeCodeCamp](https://www.freecodecamp.org) intermediate projects. This was easy to build up until I had to deal with the weather API. I finally found out that it was trying to talk to the API before I had stored valid values for the location, so it kept giving me an error in the consol. I then made sure to only call the updateWeather() function once I had the location already.
+
+### R1D9
+Finally recamped my [resume](https://www.jacobvarner.com/resume.pdf) after reading another article on tips for resumes. I have made too many modifications and it was juzt time go re-do the entitre thing. It was also good to convert it back to a Word dock. It might not look as good as my other one, but it certainly will be easier to modify and update going forward.
+
+I also atarted reading the first book in the You Don't Know JavaScript seriss: Up and Going. Looking forward to hopefully nailing down the basics of JavaScript with this series.
