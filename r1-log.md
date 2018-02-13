@@ -54,5 +54,7 @@ I got most of the Wikipedia Viewer project done for freeCodeCamp. I spent a lot 
 ### R1D11
 Since I spent most of the day traveling to the Auburn basketball game in Athens, I got to read a good bit of the first book in the "You Don't Know JavaSript Series" on the bus. The book was almost entirely a review since it goes over basic programming knowlege, but it was interesting to get into some of the nuances of JavaScript, which is the main reason for me reading this series to begin with.
 
+*I missed my first day on Sunday, February 11th, 2018*
+
 ### R1D12
 Today I finished my [Wikipedia Search app](https://codepen.io/jacobvarner/pen/yvMovJ) that incoorporates the Wikipedia API. This app allows the user to enter a search term and then returns the first 10 results for that search as well as excerpts for each result. There is also the option for the user to just view a random article.
