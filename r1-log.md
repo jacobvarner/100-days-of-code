@@ -58,3 +58,6 @@ Since I spent most of the day traveling to the Auburn basketball game in Athens,
 
 ### R1D12
 Today I finished my [Wikipedia Search app](https://codepen.io/jacobvarner/pen/yvMovJ) that incoorporates the Wikipedia API. This app allows the user to enter a search term and then returns the first 10 results for that search as well as excerpts for each result. There is also the option for the user to just view a random article.
+
+### R1D13
+Finished reading "Up & Going" and read the first chapter of "Scope & Closures" in the *You Don't Know JS* series. I also started to plan out and make starting plans for a personalized todo list application that I want to take on as my next serious side project. This will likely be what I learn React and other things with.
