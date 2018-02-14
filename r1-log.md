@@ -61,3 +61,6 @@ Today I finished my [Wikipedia Search app](https://codepen.io/jacobvarner/pen/yv
 
 ### R1D13
 Finished reading "Up & Going" and read the first chapter of "Scope & Closures" in the *You Don't Know JS* series. I also started to plan out and make starting plans for a personalized todo list application that I want to take on as my next serious side project. This will likely be what I learn React and other things with.
+
+### R1D14
+Started work on the final freeCodeCamp intermediate projects, which is a app using the Twitch.tv API. I am making a simple viewer for a user's favorite streams where they can see if they're live or not. I finised the HTML and CSS for the app and now just need to add all of the JavaScript functionality.
