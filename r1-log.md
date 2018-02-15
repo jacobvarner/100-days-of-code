@@ -64,3 +64,6 @@ Finished reading "Up & Going" and read the first chapter of "Scope & Closures" i
 
 ### R1D14
 Started work on the final freeCodeCamp intermediate projects, which is a app using the Twitch.tv API. I am making a simple viewer for a user's favorite streams where they can see if they're live or not. I finised the HTML and CSS for the app and now just need to add all of the JavaScript functionality.
+
+### R1D15
+Finished my [Twitch live stream indicator app](https://codepen.io/jacobvarner/pen/YerpRj) to complete the final freeCodeCamp intermediate project. I still ran into issues with the async nature of adding streams and getting the status to pair with the correct stream. The app features the ability to add and remove streams, and indicate which streams are online or offline.
