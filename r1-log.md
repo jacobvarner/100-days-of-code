@@ -75,3 +75,6 @@ Continued to tweak the variations of logos for my next project "MyTodos" and the
 
 ### R1D17
 Time to finally start actually learning React. Today I set added the needed extensions to VS Code to get going with React and updated my Node.js version to 9.5.0. I made it part way through the provided Tic-Tac-Toe tutorial on React which covered setting up components and then showing how they can share states with eachother through props.
+
+### R1D18
+I finished the "Scopes & Closures" book in the *You Don't Know JavaScript* series. The second part of the book focused on closures explained a few of the oddities I had noticed before in some of the freeCodeCamp projects. I now understand why some of my for loops were giving weird outputs and how I can fix them with the knowledge of how closures and scope works as well as with the added benefit of using let vs var.
