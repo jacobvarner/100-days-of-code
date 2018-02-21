@@ -67,3 +67,11 @@ Started work on the final freeCodeCamp intermediate projects, which is a app usi
 
 ### R1D15
 Finished my [Twitch live stream indicator app](https://codepen.io/jacobvarner/pen/YerpRj) to complete the final freeCodeCamp intermediate project. I still ran into issues with the async nature of adding streams and getting the status to pair with the correct stream. The app features the ability to add and remove streams, and indicate which streams are online or offline.
+
+### R1D16
+Continued to tweak the variations of logos for my next project "MyTodos" and then went on to start laying out design ideas for the home page. I also managed to read another chapter in "Scope & Closures" in the *You Don't Know JS* series. A busy weekend is coming, but I'm going to try and fit in some coding time.
+
+*Well, I didn't. I missed Saturday and Sunday due to a bike race and being out of town and then spending way too much time fixing things on my bike on Sunday. Monday then was filled with meetings and homework after having to catch up from a super unproductive weekend.*
+
+### R1D17
+Time to finally start actually learning React. Today I set added the needed extensions to VS Code to get going with React and updated my Node.js version to 9.5.0. I made it part way through the provided Tic-Tac-Toe tutorial on React which covered setting up components and then showing how they can share states with eachother through props.
