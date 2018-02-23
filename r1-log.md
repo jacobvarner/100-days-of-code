@@ -78,3 +78,6 @@ Time to finally start actually learning React. Today I set added the needed exte
 
 ### R1D18
 I finished the "Scopes & Closures" book in the *You Don't Know JavaScript* series. The second part of the book focused on closures explained a few of the oddities I had noticed before in some of the freeCodeCamp projects. I now understand why some of my for loops were giving weird outputs and how I can fix them with the knowledge of how closures and scope works as well as with the added benefit of using let vs var.
+
+### R1D19
+Continued going through the React Tic-Tac-Toe example. I moved the state management to the Game class and passed all of the data down to the Board class using props. This was so that I could implement the history of moves and switch between states at any point in the game. Next, I'll fill out the function that actually switches back to previous states of the game.
