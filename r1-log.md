@@ -16,3 +16,9 @@ Work has been crazy busy this summer, but I don't need to keep using that as an 
 I finished the last "Intermediate Algortithm Challenge" on [freeCodeCamp](https://www.freecodecamp.org) and then made it through most of the Sass modules. The Sass modules were a little buggy on FCC but it was nice learning how to use more of the Sass functionality and brush up on my SCSS formatting since I mostly just use Sass and the variable features that it offers.
 
 I'm looking forward to finally diving into React soon since it has seemed like a lot of brushing up on Javascript skills up to this point. I am sure it will be well worth in the end though.
+
+### R1D3
+
+After completing the last few Sass modules that focused on Partials and Extended elements, I finally got started on the React portion of FCC.
+
+I was able to quickly get through the modules covering basic things in React like JSX, Components, and Props. The syntax for React might take a little getting used to, especially with the few nuances, but overall the structure of the framework seems like it's going to be fairly easy to learn and fun to use.
