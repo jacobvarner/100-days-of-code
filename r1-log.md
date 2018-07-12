@@ -22,3 +22,9 @@ I'm looking forward to finally diving into React soon since it has seemed like a
 After completing the last few Sass modules that focused on Partials and Extended elements, I finally got started on the React portion of FCC.
 
 I was able to quickly get through the modules covering basic things in React like JSX, Components, and Props. The syntax for React might take a little getting used to, especially with the few nuances, but overall the structure of the framework seems like it's going to be fairly easy to learn and fun to use.
+
+### R1D4
+
+Finished the last two FCC modules that were dealing with Props in React and then started learning about State.
+
+State makes a little more sense to me than Props and I was able to make a "real" component with more functionality than just displaying a hard-coded variable to the DOM.
