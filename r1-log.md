@@ -28,3 +28,9 @@ I was able to quickly get through the modules covering basic things in React lik
 Finished the last two FCC modules that were dealing with Props in React and then started learning about State.
 
 State makes a little more sense to me than Props and I was able to make a "real" component with more functionality than just displaying a hard-coded variable to the DOM.
+
+### R1D5
+
+Today I knocked off a few more of the React modules on freeCodeCamp.
+
+These covered more information on State and Props as well as getting to work with Component Lifecycle Methods. These modules focused on teaching when you can and often should make certain checks based on the State/Props and compare them to nextState and nextProp to allow or prevet changes to the UI or the Component. Using this knowledge as well as a refresh on JavaScript ternary conditions, I was able to make a simple UI that loaded a button first and then changed the button's text based on the number that was input.
