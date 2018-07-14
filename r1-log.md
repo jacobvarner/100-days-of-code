@@ -34,3 +34,9 @@ State makes a little more sense to me than Props and I was able to make a "real"
 Today I knocked off a few more of the React modules on freeCodeCamp.
 
 These covered more information on State and Props as well as getting to work with Component Lifecycle Methods. These modules focused on teaching when you can and often should make certain checks based on the State/Props and compare them to nextState and nextProp to allow or prevet changes to the UI or the Component. Using this knowledge as well as a refresh on JavaScript ternary conditions, I was able to make a simple UI that loaded a button first and then changed the button's text based on the number that was input.
+
+### R1D6
+
+I finished up the React section of freeCodeCamp which covered more conditional actions like styling CSS based on certain input.
+
+The last few lessons were focused on using Array.map() and Array.filter() to dynamically render Components to the DOM. Once again, I was able to build things closer to real life use cases and applications.
