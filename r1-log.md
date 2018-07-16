@@ -40,3 +40,7 @@ These covered more information on State and Props as well as getting to work wit
 I finished up the React section of freeCodeCamp which covered more conditional actions like styling CSS based on certain input.
 
 The last few lessons were focused on using Array.map() and Array.filter() to dynamically render Components to the DOM. Once again, I was able to build things closer to real life use cases and applications.
+
+### R1D7
+
+Made it through my first week and made it through most of the Redux lessons on freeCodeCamp. I understand what Redux does, but freeCodeCamp doesn't do as great of a job of explaining why it's necessarily better than handling state in React other than it having more strict systems and rules. I wasn't able to figure out the Redux lesson that pulls it all together, so I'll probably havee to go back and read more about the basic State and Action syntax in order to pass the last few lessons.
