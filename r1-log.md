@@ -44,3 +44,9 @@ The last few lessons were focused on using Array.map() and Array.filter() to dyn
 ### R1D7
 
 Made it through my first week and made it through most of the Redux lessons on freeCodeCamp. I understand what Redux does, but freeCodeCamp doesn't do as great of a job of explaining why it's necessarily better than handling state in React other than it having more strict systems and rules. I wasn't able to figure out the Redux lesson that pulls it all together, so I'll probably havee to go back and read more about the basic State and Action syntax in order to pass the last few lessons.
+
+### R1D8
+
+Today I finished the last of the Redux lessons. I was struggling with the same challenge as last night, but finally figured it out. At first I was struggling with the immutability concept of Redux and was getting thrown off by all of the syntax that was creating copies before modifying. Once passing the "Create a Counter with Redux" lesson, the rest of the Redux lessons started to make a little more sense.
+
+I look forward to seeing how Redux works in the context of React, becuase as of now, it still seems like a very foreign framework that will take a little bit more practice for me to get it.
