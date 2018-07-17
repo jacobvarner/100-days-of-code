@@ -50,3 +50,7 @@ Made it through my first week and made it through most of the Redux lessons on f
 Today I finished the last of the Redux lessons. I was struggling with the same challenge as last night, but finally figured it out. At first I was struggling with the immutability concept of Redux and was getting thrown off by all of the syntax that was creating copies before modifying. Once passing the "Create a Counter with Redux" lesson, the rest of the Redux lessons started to make a little more sense.
 
 I look forward to seeing how Redux works in the context of React, becuase as of now, it still seems like a very foreign framework that will take a little bit more practice for me to get it.
+
+### R1D9
+
+I finished the freeCodeCamp lessons that start to show how React and Redux interact with eachother. I started making the components on both the React and Redux side that are needed to create a simple messagin app. Tomorrow I will learn how to tie the individual pieces from both frameworks together to make a functioning app.
