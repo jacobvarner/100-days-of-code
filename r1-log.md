@@ -54,3 +54,7 @@ I look forward to seeing how Redux works in the context of React, becuase as of 
 ### R1D9
 
 I finished the freeCodeCamp lessons that start to show how React and Redux interact with eachother. I started making the components on both the React and Redux side that are needed to create a simple messagin app. Tomorrow I will learn how to tie the individual pieces from both frameworks together to make a functioning app.
+
+### R1D10
+
+Completed the last few lessons in the React and Redux section of freeCodeCamp which focused on tying the two frameworks together. After completing the final lessons of the front-end framework certificate, I am ready to complete the projects. I went ahead and started building the Random Quote Machine today but only had time to finish the HTML and CSS.
