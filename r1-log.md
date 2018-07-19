@@ -58,3 +58,7 @@ I finished the freeCodeCamp lessons that start to show how React and Redux inter
 ### R1D10
 
 Completed the last few lessons in the React and Redux section of freeCodeCamp which focused on tying the two frameworks together. After completing the final lessons of the front-end framework certificate, I am ready to complete the projects. I went ahead and started building the Random Quote Machine today but only had time to finish the HTML and CSS.
+
+### R1D11
+
+Today I finished up the Random Quote Machine project. I ended up going back to a similar project I had started earlier and modified it to pass the new tests this time around. This project is still using jQuery, but I plan to use React in the next projects as they are a little more advanced and suit React and more advanced frameworks better.
