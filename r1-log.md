@@ -62,3 +62,7 @@ Completed the last few lessons in the React and Redux section of freeCodeCamp wh
 ### R1D11
 
 Today I finished up the Random Quote Machine project. I ended up going back to a similar project I had started earlier and modified it to pass the new tests this time around. This project is still using jQuery, but I plan to use React in the next projects as they are a little more advanced and suit React and more advanced frameworks better.
+
+### R1D12
+
+I began the 'Markdown Previewer' project for the Front End Libraries certificate. Once again, I opted to set up the HTML and styling first before adding the functionality with React. I went ahead and configured some of the settings for Marked.js and stubbed out what I think will be my two components for React. I may end up having to combine them into one component, but I'd prefer to keep them separately and inject the React elements into the DOM which is already drawn with HTML.
