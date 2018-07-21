@@ -65,4 +65,8 @@ Today I finished up the Random Quote Machine project. I ended up going back to a
 
 ### R1D12
 
-I began the 'Markdown Previewer' project for the Front End Libraries certificate. Once again, I opted to set up the HTML and styling first before adding the functionality with React. I went ahead and configured some of the settings for Marked.js and stubbed out what I think will be my two components for React. I may end up having to combine them into one component, but I'd prefer to keep them separately and inject the React elements into the DOM which is already drawn with HTML.
+I began the ['Markdown Previewer' project](https://codepen.io/jacobvarner/pen/JBEbry) for the Front End Libraries certificate. Once again, I opted to set up the HTML and styling first before adding the functionality with React. I went ahead and configured some of the settings for Marked.js and stubbed out what I think will be my two components for React. I may end up having to combine them into one component, but I'd prefer to keep them separately and inject the React elements into the DOM which is already drawn with HTML.
+
+### R1D13
+
+I finished the ['Markdown Previewer' project](https://codepen.io/jacobvarner/pen/JBEbry), but it wasn't without frustration. I was beginning to doubt my React skills because I couldn't get it to work once I had rendered all of the components to the screen in what I thought was the correct way. It turns out I had called markdown() instead of marked() to make the conversion using Markdown.js. Once I figured that bug, I just then had to use dangerouslySetInnerHTML() in the component to get it to actually show up as HTML and not just plain text.
