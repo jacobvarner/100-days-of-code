@@ -70,3 +70,7 @@ I began the ['Markdown Previewer' project](https://codepen.io/jacobvarner/pen/JB
 ### R1D13
 
 I finished the ['Markdown Previewer' project](https://codepen.io/jacobvarner/pen/JBEbry), but it wasn't without frustration. I was beginning to doubt my React skills because I couldn't get it to work once I had rendered all of the components to the screen in what I thought was the correct way. It turns out I had called markdown() instead of marked() to make the conversion using Markdown.js. Once I figured that bug, I just then had to use dangerouslySetInnerHTML() in the component to get it to actually show up as HTML and not just plain text.
+
+### R1D14
+
+It wasn't the most productive day after finishing a project yesterday. Today I familiarized myself with the 'Drum Kit' project on freeCodeCamp as well as started to lay out what I think I'll need. I got hung up on the HTML5 <audio> element since I've never used it and ended up spending a good amount of time on reading up on how it works and how I'll need to use it in this project.
