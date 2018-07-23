@@ -74,3 +74,7 @@ I finished the ['Markdown Previewer' project](https://codepen.io/jacobvarner/pen
 ### R1D14
 
 It wasn't the most productive day after finishing a project yesterday. Today I familiarized myself with the 'Drum Kit' project on freeCodeCamp as well as started to lay out what I think I'll need. I got hung up on the HTML5 <audio> element since I've never used it and ended up spending a good amount of time on reading up on how it works and how I'll need to use it in this project.
+
+### R1D15
+
+At the end of my hour and a half, I was able to get all of the basic React functionality working. There is zero styling on the appliation, but all but one fo the audio files plays (I'll need to look into the link on one because it's the only one giving me a CORB warning and not playing). Tomorrow I'll try to style the applicaiton and fix any last bugs.
