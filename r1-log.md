@@ -78,3 +78,8 @@ It wasn't the most productive day after finishing a project yesterday. Today I f
 ### R1D15
 
 At the end of my hour and a half, I was able to get all of the basic React functionality working. There is zero styling on the appliation, but all but one fo the audio files plays (I'll need to look into the link on one because it's the only one giving me a CORB warning and not playing). Tomorrow I'll try to style the applicaiton and fix any last bugs.
+
+
+### R1D16
+
+Finished the ['Drum Machine'](https://codepen.io/jacobvarner/pen/zLZqmN) freeCodeCamp project by styling the React components. I also had to go back and add a simple change of styles when each button is pressed. I did this through a timeout because I think it looks cool when the active style stays in place for a few miliseconds after the key is pressed and allows multiple keys to be lit up at once.
