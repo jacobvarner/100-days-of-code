@@ -83,3 +83,7 @@ At the end of my hour and a half, I was able to get all of the basic React funct
 ### R1D16
 
 Finished the ['Drum Machine'](https://codepen.io/jacobvarner/pen/zLZqmN) freeCodeCamp project by styling the React components. I also had to go back and add a simple change of styles when each button is pressed. I did this through a timeout because I think it looks cool when the active style stays in place for a few miliseconds after the key is pressed and allows multiple keys to be lit up at once.
+
+### R1D17
+
+The first of many busy days of moving, so not the most time for code. However, I managed to squeeze in an hour where I went over the requirements for the Calculator project on freeCodeCamp and then stubbed out my components. I can already tell one of the bigger challenges in this project will be coming up with a method to handle the actual calculator functions.
