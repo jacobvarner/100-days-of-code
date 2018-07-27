@@ -87,3 +87,7 @@ Finished the ['Drum Machine'](https://codepen.io/jacobvarner/pen/zLZqmN) freeCod
 ### R1D17
 
 The first of many busy days of moving, so not the most time for code. However, I managed to squeeze in an hour where I went over the requirements for the Calculator project on freeCodeCamp and then stubbed out my components. I can already tell one of the bigger challenges in this project will be coming up with a method to handle the actual calculator functions.
+
+### R1D18
+
+I got quite a bit done today and it made me more confident in my ability to write React components. I have a fully rendered and themed application and now just need to handle the button presses and the calculator logic which will be a different challenge altogether. I think I have my React components set up to where I shouldn't have to tweak much tomorrow.
