@@ -91,3 +91,7 @@ The first of many busy days of moving, so not the most time for code. However, I
 ### R1D18
 
 I got quite a bit done today and it made me more confident in my ability to write React components. I have a fully rendered and themed application and now just need to handle the button presses and the calculator logic which will be a different challenge altogether. I think I have my React components set up to where I shouldn't have to tweak much tomorrow.
+
+### R1D19
+
+Today I handled all of the button presses for my ['React Calculator' project](https://codepen.io/jacobvarner/pen/GBvrGB). Every button, including the equals button does what it should do. All that is missing now is the actual calculation. I'm hoping to find a quick way to take a string and interpret it as a formula, otherwise I'll have to write more complex code to split and parse the string.
