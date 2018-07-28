@@ -95,3 +95,7 @@ I got quite a bit done today and it made me more confident in my ability to writ
 ### R1D19
 
 Today I handled all of the button presses for my ['React Calculator' project](https://codepen.io/jacobvarner/pen/GBvrGB). Every button, including the equals button does what it should do. All that is missing now is the actual calculation. I'm hoping to find a quick way to take a string and interpret it as a formula, otherwise I'll have to write more complex code to split and parse the string.
+
+### R1D20
+
+I managed to finish my ['React Calculator' project](https://codepen.io/jacobvarner/pen/GBvrGB) and while the basic calculation portion was easy with the use of the eval() function, I had to spend a lot of time adding checks for edge cases such as only using the last opperator and using the previous answer when an opperator is immediately pressed. Once done with the project, I'm sure I could have made it cleaner from the beginning, but I was focused on getting it working before any plans to refactor.
