@@ -99,3 +99,7 @@ Today I handled all of the button presses for my ['React Calculator' project](ht
 ### R1D20
 
 I managed to finish my ['React Calculator' project](https://codepen.io/jacobvarner/pen/GBvrGB) and while the basic calculation portion was easy with the use of the eval() function, I had to spend a lot of time adding checks for edge cases such as only using the last opperator and using the previous answer when an opperator is immediately pressed. Once done with the project, I'm sure I could have made it cleaner from the beginning, but I was focused on getting it working before any plans to refactor.
+
+### R1D21
+
+In starting my final project for the [freeCodeCamp](https://www.freecodecamp.org) Front End Frameworks certificate, I managed to lay out most of the React Components to display the Pomodoro clock in it's start state. The app can effectively update the session and break times and the timer updates to the correct session time before being started.
