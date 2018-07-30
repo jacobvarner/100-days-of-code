@@ -103,3 +103,7 @@ I managed to finish my ['React Calculator' project](https://codepen.io/jacobvarn
 ### R1D21
 
 In starting my final project for the [freeCodeCamp](https://www.freecodecamp.org) Front End Frameworks certificate, I managed to lay out most of the React Components to display the Pomodoro clock in it's start state. The app can effectively update the session and break times and the timer updates to the correct session time before being started.
+
+### R1D22
+
+Spent some more time on my 'Pomodoro Clock' project. I managed to format the timer correctly using the JavaScript Date object and its methods and then styled the entire application, including a nice simple button animation that I liked. I stubbed out the function to start, stop, and reset the timer, but I will add their functionality tomorrow.
