@@ -107,3 +107,7 @@ In starting my final project for the [freeCodeCamp](https://www.freecodecamp.org
 ### R1D22
 
 Spent some more time on my 'Pomodoro Clock' project. I managed to format the timer correctly using the JavaScript Date object and its methods and then styled the entire application, including a nice simple button animation that I liked. I stubbed out the function to start, stop, and reset the timer, but I will add their functionality tomorrow.
+
+### R1D23
+
+I spent my entire hour today coding in circles getting things to partially work. I think I have a way to decrement the timer, but I still seem to have issues with where I should control state and when I should pass things as props instead. I ended up having to scratch a lot of what I did, but I think I know where to start from tomorrow.
