@@ -111,3 +111,7 @@ Spent some more time on my 'Pomodoro Clock' project. I managed to format the tim
 ### R1D23
 
 I spent my entire hour today coding in circles getting things to partially work. I think I have a way to decrement the timer, but I still seem to have issues with where I should control state and when I should pass things as props instead. I ended up having to scratch a lot of what I did, but I think I know where to start from tomorrow.
+
+### R1D24
+
+I finished my ['Pomodoro Clock'](https://codepen.io/jacobvarner/pen/xJPMEj) which was the final project in the [freeCodeCamp](https://www.freecodecamp.org)'s Front End Libraries certification. It took me about an hour to figure out how to get the timer working like I wanted and I ultimately settled witha solution that used setInterval() so that I could updated the clock accordingly every second while it was 'running.' I had my struggles with this project, but I definitely came away learning even more about JavaScript and React.
