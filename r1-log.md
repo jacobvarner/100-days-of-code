@@ -115,3 +115,7 @@ I spent my entire hour today coding in circles getting things to partially work.
 ### R1D24
 
 I finished my ['Pomodoro Clock'](https://codepen.io/jacobvarner/pen/xJPMEj) which was the final project in the [freeCodeCamp](https://www.freecodecamp.org)'s Front End Libraries certification. It took me about an hour to figure out how to get the timer working like I wanted and I ultimately settled witha solution that used setInterval() so that I could updated the clock accordingly every second while it was 'running.' I had my struggles with this project, but I definitely came away learning even more about JavaScript and React.
+
+### R1D25
+
+After completing the 'Front End Libraries' certificate, I wanted to go ahead and go back to the 'Responsive Web Design' certification since freeCodeCamp added a ton of new lessons and it looks odd that I have the following certifications but not the first one although I should already have the skills. Today I went through half of the 'Applied Visual Design' section which was a nice refresher into exactly what certain CSS attributes can do.
