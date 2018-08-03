@@ -119,3 +119,6 @@ I finished my ['Pomodoro Clock'](https://codepen.io/jacobvarner/pen/xJPMEj) whic
 ### R1D25
 
 After completing the 'Front End Libraries' certificate, I wanted to go ahead and go back to the 'Responsive Web Design' certification since freeCodeCamp added a ton of new lessons and it looks odd that I have the following certifications but not the first one although I should already have the skills. Today I went through half of the 'Applied Visual Design' section which was a nice refresher into exactly what certain CSS attributes can do.
+
+### R1D26
+While I intended to go back to complete the first certicate quickly as part of a refresher on things I already knew, I actually learned a lot about more advanced CSS propterties today. It was cool to really see how gradients and transformations work and how I can use them to make some pretty cool graphical animations with just pure CSS.
