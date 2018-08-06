@@ -128,3 +128,6 @@ While I intended to go back to complete the first certicate quickly as part of a
 
 Today I started and finished the accessibility seciton in the freeCodeCamp Responsive Web Design certification. Some of these practices I already knew about and do my best to use them, but I was made aware of more advanced features added in HTML5 that I should use in my projects going forward.
 
+### R1D28
+
+I decided to play around with the CSS animation stuff I was learning a few days ago and made a simple bouncing basketball with just CSS3. I hope to add animations soon.
