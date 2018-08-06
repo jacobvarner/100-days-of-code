@@ -131,3 +131,7 @@ Today I started and finished the accessibility seciton in the freeCodeCamp Respo
 ### R1D28
 
 I decided to play around with the CSS animation stuff I was learning a few days ago and made a simple bouncing basketball with just CSS3. I hope to add animations soon.
+
+### R1D29
+
+Spent another day fiddling with my bouncing basketball animation but still didn't make much progress. I couldn't get the curved stripes of the basketball to scale or fit correctly so I tried to just ignore the stripes and focus on the bouncing animaiton. I eventually found @keyframes combination that worked to make a decent looking bounce with ball compression and everything, but I still couldn't make it work for when the viewport is changed. While this little project helped me play with CSS animations more, I think I'm going to abandon it for now and go back to freeCodeCamp lessons tomorrow.
