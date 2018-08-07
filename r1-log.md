@@ -135,3 +135,7 @@ I decided to play around with the CSS animation stuff I was learning a few days 
 ### R1D29
 
 Spent another day fiddling with my bouncing basketball animation but still didn't make much progress. I couldn't get the curved stripes of the basketball to scale or fit correctly so I tried to just ignore the stripes and focus on the bouncing animaiton. I eventually found @keyframes combination that worked to make a decent looking bounce with ball compression and everything, but I still couldn't make it work for when the viewport is changed. While this little project helped me play with CSS animations more, I think I'm going to abandon it for now and go back to freeCodeCamp lessons tomorrow.
+
+### R1D30
+
+Today I got back into the freeCodeCamp CSS lessons. I started and finished the media queries section and then the Flexbox section. Flexbox has always been something I've neglected but meant to learn. Now that I've gone through the basics, I started a ['cheat sheet' on Codepen](https://codepen.io/jacobvarner/pen/VBEWyb) so that I can refer back to it for the basic Flexbox properties.
