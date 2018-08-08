@@ -139,3 +139,7 @@ Spent another day fiddling with my bouncing basketball animation but still didn'
 ### R1D30
 
 Today I got back into the freeCodeCamp CSS lessons. I started and finished the media queries section and then the Flexbox section. Flexbox has always been something I've neglected but meant to learn. Now that I've gone through the basics, I started a ['cheat sheet' on Codepen](https://codepen.io/jacobvarner/pen/VBEWyb) so that I can refer back to it for the basic Flexbox properties.
+
+### R1D31
+
+I continued to work on the [Flexbox Cheat Sheet](https://codepen.io/jacobvarner/pen/VBEWyb) that I started yesterday. I'm using the time to practice some of the things I've learned in the past few days including more advanced CSS properties and Flexbox while trying a slightly new design pattern. Tomorrow I'll begin to make each of the Flexbox examples.
