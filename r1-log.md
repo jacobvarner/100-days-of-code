@@ -143,3 +143,7 @@ Today I got back into the freeCodeCamp CSS lessons. I started and finished the m
 ### R1D31
 
 I continued to work on the [Flexbox Cheat Sheet](https://codepen.io/jacobvarner/pen/VBEWyb) that I started yesterday. I'm using the time to practice some of the things I've learned in the past few days including more advanced CSS properties and Flexbox while trying a slightly new design pattern. Tomorrow I'll begin to make each of the Flexbox examples.
+
+### R1D32
+
+Did more work on the [Flexbox Cheat Sheet](https://codepen.io/jacobvarner/full/VBEWyb/) which actually meant filling in content on the site and adding styles to each of the eamples. I made it through the first three properties: flex-direction, justify-content, and align-items.
