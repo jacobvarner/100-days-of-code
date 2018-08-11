@@ -151,3 +151,7 @@ Did more work on the [Flexbox Cheat Sheet](https://codepen.io/jacobvarner/full/V
 ### R1D33
 
 Finished the [Flexbox Cheat Sheet](https://codepen.io/jacobvarner/pen/VBEWyb) for my reference later. The last few sections were straightforward to fill out, but I got stuck on trying to make my links in the footer rotate like the navigation links but eventually figured out that I couldn't use transform on the inline element.
+
+### R1D34
+
+I started and finished the CSS Grid lessons on freeCodeCamp. It seems like a pretty powerful addition to CSS and I can totally see it making my life easier for basic websites going forward. The downside might be that it gives a lot of wholistic control and might seem a little overkill for a lot of projects. It'll certainly take a new way of thinking when designing websites.
