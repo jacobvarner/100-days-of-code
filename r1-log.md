@@ -147,3 +147,7 @@ I continued to work on the [Flexbox Cheat Sheet](https://codepen.io/jacobvarner/
 ### R1D32
 
 Did more work on the [Flexbox Cheat Sheet](https://codepen.io/jacobvarner/full/VBEWyb/) which actually meant filling in content on the site and adding styles to each of the eamples. I made it through the first three properties: flex-direction, justify-content, and align-items.
+
+### R1D33
+
+Finished the [Flexbox Cheat Sheet](https://codepen.io/jacobvarner/pen/VBEWyb) for my reference later. The last few sections were straightforward to fill out, but I got stuck on trying to make my links in the footer rotate like the navigation links but eventually figured out that I couldn't use transform on the inline element.
