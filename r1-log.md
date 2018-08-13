@@ -155,3 +155,7 @@ Finished the [Flexbox Cheat Sheet](https://codepen.io/jacobvarner/pen/VBEWyb) fo
 ### R1D34
 
 I started and finished the CSS Grid lessons on freeCodeCamp. It seems like a pretty powerful addition to CSS and I can totally see it making my life easier for basic websites going forward. The downside might be that it gives a lot of wholistic control and might seem a little overkill for a lot of projects. It'll certainly take a new way of thinking when designing websites.
+
+### R1D35
+
+Today I started and put a lot of time into my [concept survey form](https://codepen.io/jacobvarner/pen/wxOBXX) for the second project of the freeCodeCamp responsive web design certificiate. I took a lot of time on this to focus on design and almost completely custom fields. I got hung up on styling the radio buttons and decided to stop for the day.
