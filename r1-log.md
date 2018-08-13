@@ -159,3 +159,8 @@ I started and finished the CSS Grid lessons on freeCodeCamp. It seems like a pre
 ### R1D35
 
 Today I started and put a lot of time into my [concept survey form](https://codepen.io/jacobvarner/pen/wxOBXX) for the second project of the freeCodeCamp responsive web design certificiate. I took a lot of time on this to focus on design and almost completely custom fields. I got hung up on styling the radio buttons and decided to stop for the day.
+
+
+### R1D36
+
+Other than one little bug with the slanted footer when viewed in the browser, I finished my [concept survey form](https://codepen.io/jacobvarner/pen/wxOBXX) and am really pleased with how it turned out. This form is definitely optimized for mobile (which I believe forms should be) and even has a fun submit animation at the end. The only thing I would like to eventually go back and add are some validation indicators to show whether fields pass validation as the user inputs them.
