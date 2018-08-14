@@ -164,3 +164,7 @@ Today I started and put a lot of time into my [concept survey form](https://code
 ### R1D36
 
 Other than one little bug with the slanted footer when viewed in the browser, I finished my [concept survey form](https://codepen.io/jacobvarner/pen/wxOBXX) and am really pleased with how it turned out. This form is definitely optimized for mobile (which I believe forms should be) and even has a fun submit animation at the end. The only thing I would like to eventually go back and add are some validation indicators to show whether fields pass validation as the user inputs them.
+
+### R1D37
+
+I started creating a concept product landing page today for the next project towards my freeCodeCamp responsive web design certificate. I am making a mock page for a MyTodos todo list application that I want to eventually make. This will give me an idea of what direction I want to take that app if I get around to making it. I've already learned how to embed video and actually found a cool stock video from a free site and was able to link it to CodePen from my Google Drive.
