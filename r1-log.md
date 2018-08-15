@@ -168,3 +168,7 @@ Other than one little bug with the slanted footer when viewed in the browser, I 
 ### R1D37
 
 I started creating a concept product landing page today for the next project towards my freeCodeCamp responsive web design certificate. I am making a mock page for a MyTodos todo list application that I want to eventually make. This will give me an idea of what direction I want to take that app if I get around to making it. I've already learned how to embed video and actually found a cool stock video from a free site and was able to link it to CodePen from my Google Drive.
+
+### R1D38
+
+Got home late from work today, but still managed to spend an hour styling the header and navbar for my concept product landing page. I went with a pretty basic header that I typically use, but this time I styled it all with Flexbox to make sure I really feel comforable with it (and the freeCodeCamp specs required it for this project).
