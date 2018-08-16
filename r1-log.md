@@ -172,3 +172,7 @@ I started creating a concept product landing page today for the next project tow
 ### R1D38
 
 Got home late from work today, but still managed to spend an hour styling the header and navbar for my concept product landing page. I went with a pretty basic header that I typically use, but this time I styled it all with Flexbox to make sure I really feel comforable with it (and the freeCodeCamp specs required it for this project).
+
+### R1D39
+
+I had another pretty unproductive day, but still managed to finish styling the intro section of my concept product landing page which included adding the text overlay to the video and making sure it scaled correctly.
