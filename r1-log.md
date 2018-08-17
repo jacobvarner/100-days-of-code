@@ -176,3 +176,7 @@ Got home late from work today, but still managed to spend an hour styling the he
 ### R1D39
 
 I had another pretty unproductive day, but still managed to finish styling the intro section of my concept product landing page which included adding the text overlay to the video and making sure it scaled correctly.
+
+### R1D40
+
+I finished my concept product landing page today and am now just one more project away from my freeCodeCamp Responsive Web Design certification. I got a little tired of the design towards the end so I feel like I rushed it, but it looks good enough. I still like the color scheme and will probably use it again. I wish the video would still load like it did originally...
