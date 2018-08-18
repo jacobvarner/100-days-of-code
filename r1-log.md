@@ -180,3 +180,7 @@ I had another pretty unproductive day, but still managed to finish styling the i
 ### R1D40
 
 I finished my concept product landing page today and am now just one more project away from my freeCodeCamp Responsive Web Design certification. I got a little tired of the design towards the end so I feel like I rushed it, but it looks good enough. I still like the color scheme and will probably use it again. I wish the video would still load like it did originally...
+
+### R1D41
+
+To make up for a less productive week, I spent a lot of time today in order to start and finish the final project of my Responsive Web Design certification from freeCodeCamp. I am very pleased with how my [concept documentation page](https://codepen.io/jacobvarner/pen/RYbroq) turned out. I love the color scheme and the way I figured out how to make the navbar and links work with the scroll correction.
