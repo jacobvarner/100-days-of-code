@@ -184,3 +184,7 @@ I finished my concept product landing page today and am now just one more projec
 ### R1D41
 
 To make up for a less productive week, I spent a lot of time today in order to start and finish the final project of my Responsive Web Design certification from freeCodeCamp. I am very pleased with how my [concept documentation page](https://codepen.io/jacobvarner/pen/RYbroq) turned out. I love the color scheme and the way I figured out how to make the navbar and links work with the scroll correction.
+
+### R1D42
+
+Before starting the the next freeCodeCamp certification, I took a moment to complete my coding challenge for the Twitter job application process. It was three simple algorithms and I managed to write them in Node.js. I passed all the test for the first two, but on the last one, I passed a few of the tests and then failed the later ones because I'm sure my solution was not efficient enough.
