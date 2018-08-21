@@ -188,3 +188,7 @@ To make up for a less productive week, I spent a lot of time today in order to s
 ### R1D42
 
 Before starting the the next freeCodeCamp certification, I took a moment to complete my coding challenge for the Twitter job application process. It was three simple algorithms and I managed to write them in Node.js. I passed all the test for the first two, but on the last one, I passed a few of the tests and then failed the later ones because I'm sure my solution was not efficient enough.
+
+### R1D43
+
+Today was the first day of class for the fall semester, but after a day full of class and meetings, I made it home and started on the D3.js section of freeCodeCamp. D3 seems way more flexible than I expected and could be used for much more than just graphs and other data displays. Along with learning D3, the modules are also teaching me about creating SVGs. It's nice to be learning totally new things once again.
