@@ -192,3 +192,7 @@ Before starting the the next freeCodeCamp certification, I took a moment to comp
 ### R1D43
 
 Today was the first day of class for the fall semester, but after a day full of class and meetings, I made it home and started on the D3.js section of freeCodeCamp. D3 seems way more flexible than I expected and could be used for much more than just graphs and other data displays. Along with learning D3, the modules are also teaching me about creating SVGs. It's nice to be learning totally new things once again.
+
+### R1D44
+
+I finished up the D3 lessons and learned about the scaleLinear() function which can fit the data to the SVG area using a given domain and range. After completing the D3 lessons, I got started on the freeCodeCamp lessons covering the basics of JSON. At this point I have just gotten to where we are parsing values and converting it to HTML to make it look slightly better.
