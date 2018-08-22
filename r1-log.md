@@ -196,3 +196,7 @@ Today was the first day of class for the fall semester, but after a day full of 
 ### R1D44
 
 I finished up the D3 lessons and learned about the scaleLinear() function which can fit the data to the SVG area using a given domain and range. After completing the D3 lessons, I got started on the freeCodeCamp lessons covering the basics of JSON. At this point I have just gotten to where we are parsing values and converting it to HTML to make it look slightly better.
+
+### R1D45
+
+I completed the last few JSON lessons and got started on the D3 bar chart project for the US GDP. I understand the basic funcitons of D3, but it's taking me a little bit to understand how to really start a project from scratch and pull in the data that I need.
