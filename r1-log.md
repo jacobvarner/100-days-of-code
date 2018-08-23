@@ -200,3 +200,7 @@ I finished up the D3 lessons and learned about the scaleLinear() function which 
 ### R1D45
 
 I completed the last few JSON lessons and got started on the D3 bar chart project for the US GDP. I understand the basic funcitons of D3, but it's taking me a little bit to understand how to really start a project from scratch and pull in the data that I need.
+
+### R1D46
+
+Today I was able to get the axes and bar data laid out on the chart despite having to mess around with the padding attribute that I had set in order to get it all lined up. The padding was needed in order to fit the axes on the chart, but it made scaling the GDP data a little bit tricky. Tomorrow I'll just need to style the bars and add a tooltip on hover.
