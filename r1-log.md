@@ -204,3 +204,8 @@ I completed the last few JSON lessons and got started on the D3 bar chart projec
 ### R1D46
 
 Today I was able to get the axes and bar data laid out on the chart despite having to mess around with the padding attribute that I had set in order to get it all lined up. The padding was needed in order to fit the axes on the chart, but it made scaling the GDP data a little bit tricky. Tomorrow I'll just need to style the bars and add a tooltip on hover.
+
+
+### R1D47
+
+Finished up my [bar chart showing the US GDP using D3.js](https://codepen.io/jacobvarner/pen/vzOBwo). Today I added the tooltip that appears when you mouse over a certain point of data and this disappears or changes when the mouse moves outside that piece of data. D3 still seems like jQuery for SVGs, but I can see how it has more use and can be more performant than jQuery was.
