@@ -209,3 +209,11 @@ Today I was able to get the axes and bar data laid out on the chart despite havi
 ### R1D47
 
 Finished up my [bar chart showing the US GDP using D3.js](https://codepen.io/jacobvarner/pen/vzOBwo). Today I added the tooltip that appears when you mouse over a certain point of data and this disappears or changes when the mouse moves outside that piece of data. D3 still seems like jQuery for SVGs, but I can see how it has more use and can be more performant than jQuery was.
+
+### R1D48
+
+I started and finished developing my personal website update. I challenged myself to re-design and re-develop my site in one weekend in order to prepare for recruiting season where I will be applying to jobs in hopes of finding a team to contribute to starting in the spring.
+
+### R1D49
+
+I made a few last-minute adjustments and wrote a blog post on my process of completing a personal challenge to re-design and re-develop my personal site in just one weekend. The new site is now live at www.jacobvarner.com.
