@@ -221,3 +221,7 @@ I made a few last-minute adjustments and wrote a blog post on my process of comp
 ### R1D50
 
 Started and finished my [cycling related scatter plot](https://codepen.io/jacobvarner/pen/oPxLeM) using D3.js. D3 is starting to make a little more sense I am starting to see its usefulness. I'm looking forward to the next project becasue it seems to use a higher concentration of data that D3 is more suitable for.
+
+### R1D51
+
+I got started on another D3.js project. This time I am trying to make a heat map of the global temperature variance over the past two centuries. I've got my x-axis set up correctly because it's just the years again but I'm having trouble with the y-axis. I am given months as integers and need to display the month name. For some reason I got it to convert correctly, but it labeled every tick on the axis as December.
