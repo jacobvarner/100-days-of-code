@@ -217,3 +217,7 @@ I started and finished developing my personal website update. I challenged mysel
 ### R1D49
 
 I made a few last-minute adjustments and wrote a blog post on my process of completing a personal challenge to re-design and re-develop my personal site in just one weekend. The new site is now live at www.jacobvarner.com.
+
+### R1D50
+
+Started and finished my [cycling related scatter plot](https://codepen.io/jacobvarner/pen/oPxLeM) using D3.js. D3 is starting to make a little more sense I am starting to see its usefulness. I'm looking forward to the next project becasue it seems to use a higher concentration of data that D3 is more suitable for.
