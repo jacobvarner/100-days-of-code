@@ -229,3 +229,7 @@ I got started on another D3.js project. This time I am trying to make a heat map
 ### R1D52
 
 Finished the heat map for global temperature using D3.js. I figured out how to use the .scaleBand to scale each section to be 'center aligned' and line up like the example.
+
+### R1D53
+
+Today I started to set up my next project that aims to map the US education rates by county. Once again I am using D3.js and getting more and more advanced. So far, I figured out how to pull in multiple data sources using Promises in the new D3 v5. I've read a little bit about mapping the counties and states using GeoJSON and TopoJSON and will attempt to do that tomorrow.
