@@ -225,3 +225,7 @@ Started and finished my [cycling related scatter plot](https://codepen.io/jacobv
 ### R1D51
 
 I got started on another D3.js project. This time I am trying to make a heat map of the global temperature variance over the past two centuries. I've got my x-axis set up correctly because it's just the years again but I'm having trouble with the y-axis. I am given months as integers and need to display the month name. For some reason I got it to convert correctly, but it labeled every tick on the axis as December.
+
+### R1D52
+
+Finished the heat map for global temperature using D3.js. I figured out how to use the .scaleBand to scale each section to be 'center aligned' and line up like the example.
