@@ -233,3 +233,7 @@ Finished the heat map for global temperature using D3.js. I figured out how to u
 ### R1D53
 
 Today I started to set up my next project that aims to map the US education rates by county. Once again I am using D3.js and getting more and more advanced. So far, I figured out how to pull in multiple data sources using Promises in the new D3 v5. I've read a little bit about mapping the counties and states using GeoJSON and TopoJSON and will attempt to do that tomorrow.
+
+### R1D54
+
+Finished up my [chloropeth showing US education data by county](https://codepen.io/jacobvarner/pen/yxVREj). This was by far the coolest data graphic I've made using D3.js so far. The ability to map out each county in the US using TopoJSON is pretty remarkable.
