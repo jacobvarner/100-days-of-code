@@ -237,3 +237,7 @@ Today I started to set up my next project that aims to map the US education rate
 ### R1D54
 
 Finished up my [chloropeth showing US education data by county](https://codepen.io/jacobvarner/pen/yxVREj). This was by far the coolest data graphic I've made using D3.js so far. The ability to map out each county in the US using TopoJSON is pretty remarkable.
+
+### R1D55
+
+Distracted by football, but managed to start the setup and do some research on treemaps for my final D3 project.
