@@ -241,3 +241,7 @@ Finished up my [chloropeth showing US education data by county](https://codepen.
 ### R1D55
 
 Distracted by football, but managed to start the setup and do some research on treemaps for my final D3 project.
+
+### R1D56
+
+I was much more productive today and finished up the [tree map showing the top 100 video games sold all time](https://codepen.io/jacobvarner/pen/bxqeaa). The tree map was an interesting visual, but I'm glad to be done with the D3 projects. I could see if being more useful if I used data in my projects more often. I'm looking forward to getting on to backend stuff and finally learning some Node.
