@@ -245,3 +245,7 @@ Distracted by football, but managed to start the setup and do some research on t
 ### R1D56
 
 I was much more productive today and finished up the [tree map showing the top 100 video games sold all time](https://codepen.io/jacobvarner/pen/bxqeaa). The tree map was an interesting visual, but I'm glad to be done with the D3 projects. I could see if being more useful if I used data in my projects more often. I'm looking forward to getting on to backend stuff and finally learning some Node.
+
+### R1D57
+
+Set up and familiarized myself with [my Glitch environment](https://rhinestone-author.glitch.me/) used for the Node.js and npm challenges on freeCodeCamp. Glitch seems nice an convenient, but I also tried to set up one Github repository that could track all of my challenges. I hopefully will be able to do this for the projects.
