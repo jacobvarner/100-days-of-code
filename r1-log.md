@@ -249,3 +249,7 @@ I was much more productive today and finished up the [tree map showing the top 1
 ### R1D57
 
 Set up and familiarized myself with [my Glitch environment](https://rhinestone-author.glitch.me/) used for the Node.js and npm challenges on freeCodeCamp. Glitch seems nice an convenient, but I also tried to set up one Github repository that could track all of my challenges. I hopefully will be able to do this for the projects.
+
+### R1D58
+
+Today I really got started with Node.js and began to learn about routing with Express. I learned how to respond to different HTTP requests, send JSON, and insert middleware functions at the root or on specific HTTP requests. It's making sense now, but definitely a step up in bew material compared to front end technologies.
