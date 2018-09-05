@@ -253,3 +253,7 @@ Set up and familiarized myself with [my Glitch environment](https://rhinestone-a
 ### R1D58
 
 Today I really got started with Node.js and began to learn about routing with Express. I learned how to respond to different HTTP requests, send JSON, and insert middleware functions at the root or on specific HTTP requests. It's making sense now, but definitely a step up in bew material compared to front end technologies.
+
+### R1D59
+
+I finished up the sections on Express and handling HTTP requests today. I learned the useful ability to send data to the 'database' and then also receive information from the server using GET and POST methods along with URL parameters. I know there is a long way to go, but this little bit of information can go a long way.
