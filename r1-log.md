@@ -257,3 +257,7 @@ Today I really got started with Node.js and began to learn about routing with Ex
 ### R1D59
 
 I finished up the sections on Express and handling HTTP requests today. I learned the useful ability to send data to the 'database' and then also receive information from the server using GET and POST methods along with URL parameters. I know there is a long way to go, but this little bit of information can go a long way.
+
+### R1D60
+
+Today I set up my database with mLab for my next few freeCodeCamp projects dealing with MongoDB and Mongoose. However, after that, I wasn't even able to pass the first lesson. I've set up my person schema exactly how the Mongoose docs had it, but I'm getting no result on freeCodeCamp. None of the app seems to be working and it just tells me that the model is incorrect. I'm going to have to call it quits for today, but it's annoying how freeCodeCamp seems to still have no solution or help for this problem.
