@@ -261,3 +261,7 @@ I finished up the sections on Express and handling HTTP requests today. I learne
 ### R1D60
 
 Today I set up my database with mLab for my next few freeCodeCamp projects dealing with MongoDB and Mongoose. However, after that, I wasn't even able to pass the first lesson. I've set up my person schema exactly how the Mongoose docs had it, but I'm getting no result on freeCodeCamp. None of the app seems to be working and it just tells me that the model is incorrect. I'm going to have to call it quits for today, but it's annoying how freeCodeCamp seems to still have no solution or help for this problem.
+
+### R1D61
+
+I figured out that the freeCodeCamp tests wanted me to also create a model from my schema, which is why the tests would not pass yesterday. After that, I had a much easier time learning about doing usful CRUD operations on the database with the help of Mongoose functions.
