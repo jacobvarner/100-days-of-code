@@ -265,3 +265,7 @@ Today I set up my database with mLab for my next few freeCodeCamp projects deali
 ### R1D61
 
 I figured out that the freeCodeCamp tests wanted me to also create a model from my schema, which is why the tests would not pass yesterday. After that, I had a much easier time learning about doing usful CRUD operations on the database with the help of Mongoose functions.
+
+### R1D62
+
+I started and finished my first API and Mircoservices project for freeCodeCamp. I build a simple timestamp API that took a millisecond value or date string and returned a json object with both the Unix timecode and the UTC datetime string. The API is live [here](https://varner-timestamp-api.glitch.me).
