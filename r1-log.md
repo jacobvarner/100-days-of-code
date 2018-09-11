@@ -273,3 +273,7 @@ I started and finished my first API and Mircoservices project for freeCodeCamp. 
 ### R1D63
 
 I was able to start and finish an [API microservice](https://varner-header-parser.glitch.me/api/whoami) that returns header information about the user (IP, language, browser) in JSON format. I then started to lay out my next project which will be a very simple URL shortener.
+
+### R1D64
+
+Spent way too much time looking into how to pull the data from the form element when the POST method was called with the /api/shortened/new url was sent. I plan to be more productive and focused tomorrow.
