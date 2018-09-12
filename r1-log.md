@@ -281,3 +281,7 @@ Spent way too much time looking into how to pull the data from the form element 
 ### R1D65
 
 I'm still working on the URL shortener API and it's reminding me a lot of my frustrations in my networking class in undergrad. I have figured out how to verify the URL and store it in the database and then return the 'short url' key, but I can't get the counter to update correctly no matter how I do it. I've tried using a separate counters collection using a few different docs online, but couldn't get it to work. I'm almost positive this is how I need to do it, so hopefully I'll figure it out tomorrow.
+
+### R1D66
+
+I was able to figure out how to correctly implement the counter and got the URL redirect working. I had to verify the url without using HTTP/HTTPS when using DNS.lookup, but then needed to store the original URL in order for the redirect to work correctly. The finished project can be found at https://varner-url-shortener.glitch.me.
