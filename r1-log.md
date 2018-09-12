@@ -277,3 +277,7 @@ I was able to start and finish an [API microservice](https://varner-header-parse
 ### R1D64
 
 Spent way too much time looking into how to pull the data from the form element when the POST method was called with the /api/shortened/new url was sent. I plan to be more productive and focused tomorrow.
+
+### R1D65
+
+I'm still working on the URL shortener API and it's reminding me a lot of my frustrations in my networking class in undergrad. I have figured out how to verify the URL and store it in the database and then return the 'short url' key, but I can't get the counter to update correctly no matter how I do it. I've tried using a separate counters collection using a few different docs online, but couldn't get it to work. I'm almost positive this is how I need to do it, so hopefully I'll figure it out tomorrow.
