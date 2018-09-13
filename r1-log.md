@@ -285,3 +285,7 @@ I'm still working on the URL shortener API and it's reminding me a lot of my fru
 ### R1D66
 
 I was able to figure out how to correctly implement the counter and got the URL redirect working. I had to verify the url without using HTTP/HTTPS when using DNS.lookup, but then needed to store the original URL in order for the redirect to work correctly. The finished project can be found at https://varner-url-shortener.glitch.me.
+
+### R1D67
+
+I started my next project which will be a REST API for tracking users and their exercises. I set up an mLab database and imported and modified the basic template code from freeCodeCamp. I'm looking forward to this project because it seems like something I can come back later and add a nicer frontend.
