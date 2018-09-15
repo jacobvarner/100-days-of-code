@@ -293,3 +293,7 @@ I started my next project which will be a REST API for tracking users and their 
 ### R1D68
 
 A couple of minutes until I figured out that I was returning an error for every instance, but I did have the User functionality of my exercise tracker working the entire time. I can now add users through the User creation form.
+
+### R1D69
+
+I added the GET function to return an array of all users and then also added the ability to add a new exercise to a user. I have set it up to have two models, User and Exercise, and the exercises are all connected to a User through the userId field.
