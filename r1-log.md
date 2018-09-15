@@ -289,3 +289,7 @@ I was able to figure out how to correctly implement the counter and got the URL 
 ### R1D67
 
 I started my next project which will be a REST API for tracking users and their exercises. I set up an mLab database and imported and modified the basic template code from freeCodeCamp. I'm looking forward to this project because it seems like something I can come back later and add a nicer frontend.
+
+### R1D68
+
+A couple of minutes until I figured out that I was returning an error for every instance, but I did have the User functionality of my exercise tracker working the entire time. I can now add users through the User creation form.
