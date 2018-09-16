@@ -297,3 +297,7 @@ A couple of minutes until I figured out that I was returning an error for every 
 ### R1D69
 
 I added the GET function to return an array of all users and then also added the ability to add a new exercise to a user. I have set it up to have two models, User and Exercise, and the exercises are all connected to a User through the userId field.
+
+### R1D70
+
+I finished up my [exercise tracker API](https://varner-exercise-tracker.glitch.me) by adding the ability to pull all exercises for a given user and narrow them down either from a certain date and/or to a certain date and/or limit the total number of exercises returned. I learned a lot about routes, parameters, and queries with this last functionality. 
