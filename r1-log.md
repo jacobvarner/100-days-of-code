@@ -301,3 +301,7 @@ I added the GET function to return an array of all users and then also added the
 ### R1D70
 
 I finished up my [exercise tracker API](https://varner-exercise-tracker.glitch.me) by adding the ability to pull all exercises for a given user and narrow them down either from a certain date and/or to a certain date and/or limit the total number of exercises returned. I learned a lot about routes, parameters, and queries with this last functionality. 
+
+### R1D71
+
+I set up my final API freeCodeCamp certification project. This will be a simple microservice that returns the metadata of an uploaded file in a JSON object. I will likely be using the multer npm package to handle the file upload.
