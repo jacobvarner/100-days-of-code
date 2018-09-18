@@ -305,3 +305,7 @@ I finished up my [exercise tracker API](https://varner-exercise-tracker.glitch.m
 ### R1D71
 
 I set up my final API freeCodeCamp certification project. This will be a simple microservice that returns the metadata of an uploaded file in a JSON object. I will likely be using the multer npm package to handle the file upload.
+
+### R1D72
+
+Today I finished the [file metadata microservice](https://varner-file-metadata.glitch.me) project that takes a file uploaded to the server and returns a JSON object with the file name and the file size. This project is the last project in my APIs and Microservices project from [freeCodeCamp](https://www.freecodecamp.org).
