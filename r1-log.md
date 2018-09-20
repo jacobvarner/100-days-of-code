@@ -313,3 +313,7 @@ Today I finished the [file metadata microservice](https://varner-file-metadata.g
 ### R1D73
 
 I took a slight break before completing my last freeCodeCamp certification to do a coding challenge for my Google interview process. The challenge had a simple string manipulation problem first that I solved pretty quickly. The next problem was an interesting algorithm problem that was really interesting and something I hadn't seen before. My solution passed all of the tests I came up with and the ones Google provided and I think my solution was fairly optimal.
+
+### R1D74
+
+I got started on the HelmetJS challenges which is the first part of the Information Security and Quality Assurance certification from freeCodeCamp. I only made it through the first three challenges today because I had to spend a goog amount of time investigating and submitting an issue on Github because the tests for the second challenge would not pass until I submitted the code a second time after waiting a few minutes. I at least learned how to insptect HTTP headers in the Chrome Dev Tools though.
