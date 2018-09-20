@@ -309,3 +309,7 @@ I set up my final API freeCodeCamp certification project. This will be a simple 
 ### R1D72
 
 Today I finished the [file metadata microservice](https://varner-file-metadata.glitch.me) project that takes a file uploaded to the server and returns a JSON object with the file name and the file size. This project is the last project in my APIs and Microservices project from [freeCodeCamp](https://www.freecodecamp.org).
+
+### R1D73
+
+I took a slight break before completing my last freeCodeCamp certification to do a coding challenge for my Google interview process. The challenge had a simple string manipulation problem first that I solved pretty quickly. The next problem was an interesting algorithm problem that was really interesting and something I hadn't seen before. My solution passed all of the tests I came up with and the ones Google provided and I think my solution was fairly optimal.
