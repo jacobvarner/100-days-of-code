@@ -317,3 +317,7 @@ I took a slight break before completing my last freeCodeCamp certification to do
 ### R1D74
 
 I got started on the HelmetJS challenges which is the first part of the Information Security and Quality Assurance certification from freeCodeCamp. I only made it through the first three challenges today because I had to spend a goog amount of time investigating and submitting an issue on Github because the tests for the second challenge would not pass until I submitted the code a second time after waiting a few minutes. I at least learned how to insptect HTTP headers in the Chrome Dev Tools though.
+
+### R1D75
+
+Finished up the remaining challenges going over the options for HelmetJS and then did a little bit of hashing with bcrypt. I learned how to use bcrypt to has both asynchronously and synchronously, while async is the recommended method on most sites.
