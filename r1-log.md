@@ -321,3 +321,7 @@ I got started on the HelmetJS challenges which is the first part of the Informat
 ### R1D75
 
 Finished up the remaining challenges going over the options for HelmetJS and then did a little bit of hashing with bcrypt. I learned how to use bcrypt to has both asynchronously and synchronously, while async is the recommended method on most sites.
+
+### R1D76
+
+I made it through all of the Chai unit test challenges. It was a nice refresher on how JavaScript handles different types and comparisons while also learning all of the different assetions that Chai has to offer.
