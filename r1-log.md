@@ -325,3 +325,7 @@ Finished up the remaining challenges going over the options for HelmetJS and the
 ### R1D76
 
 I made it through all of the Chai unit test challenges. It was a nice refresher on how JavaScript handles different types and comparisons while also learning all of the different assetions that Chai has to offer.
+
+### R1D77
+
+I continued to work with Chai for testing and completed the challenges relating to functional testing until I reached the point that I will need to work with a headless browser for tomorrow.
