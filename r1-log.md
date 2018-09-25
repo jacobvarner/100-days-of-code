@@ -329,3 +329,7 @@ I made it through all of the Chai unit test challenges. It was a nice refresher 
 ### R1D77
 
 I continued to work with Chai for testing and completed the challenges relating to functional testing until I reached the point that I will need to work with a headless browser for tomorrow.
+
+### R1D78
+
+I finished up the last Chai testing lessons using the headless browser to simulate actions on the web page and test the output. Tomorrow I'll get started on the advanced Node.js and Express challenges.
