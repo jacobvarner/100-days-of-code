@@ -333,3 +333,7 @@ I continued to work with Chai for testing and completed the challenges relating 
 ### R1D78
 
 I finished up the last Chai testing lessons using the headless browser to simulate actions on the web page and test the output. Tomorrow I'll get started on the advanced Node.js and Express challenges.
+
+### R1D79
+
+Today I set up another MongoDB for my Advanced Node.js and Express lessons. The first lessons dealt with installing and setting up Pug, Passport, and the database connection. I learned how to serialize and deserialize when information is sent back and forth from the database.
