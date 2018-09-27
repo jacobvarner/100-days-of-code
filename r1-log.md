@@ -341,3 +341,7 @@ Today I set up another MongoDB for my Advanced Node.js and Express lessons. The 
 ### R1D80
 
 I managed to get through a few of the user authentication challenges on freeCodeCamp before having to spend a bunch of time figuring out how to pass one of the obscure test cases. I eventually found the work around that was posted in the Github issues for freeCodeCamp, but the tests were not passing for a very obscure reason not even related to the challenge.
+
+### R1D81
+
+Added the ability for users to register and then added password encryption with BCrypt for storying password hashes. The application now checks for hashed passwords when a user attempts to login or register a new account. I also had to glitch my way through another challenge when the test cases wouldn't pass for no reason at all.
