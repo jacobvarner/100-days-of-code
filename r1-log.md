@@ -337,3 +337,7 @@ I finished up the last Chai testing lessons using the headless browser to simula
 ### R1D79
 
 Today I set up another MongoDB for my Advanced Node.js and Express lessons. The first lessons dealt with installing and setting up Pug, Passport, and the database connection. I learned how to serialize and deserialize when information is sent back and forth from the database.
+
+### R1D80
+
+I managed to get through a few of the user authentication challenges on freeCodeCamp before having to spend a bunch of time figuring out how to pass one of the obscure test cases. I eventually found the work around that was posted in the Github issues for freeCodeCamp, but the tests were not passing for a very obscure reason not even related to the challenge.
