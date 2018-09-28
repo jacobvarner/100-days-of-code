@@ -345,3 +345,7 @@ I managed to get through a few of the user authentication challenges on freeCode
 ### R1D81
 
 Added the ability for users to register and then added password encryption with BCrypt for storying password hashes. The application now checks for hashed passwords when a user attempts to login or register a new account. I also had to glitch my way through another challenge when the test cases wouldn't pass for no reason at all.
+
+### R1D82
+
+I moved all of my route and authorization code to separate modules in order to start cleaning up my application arhitecture. I also spent some time finishing up my [blog post](https://medium.com/@jacobvarner/my-name-is-jacob-varner-and-this-is-why-you-should-hire-me-d967181a7fe0) that summarizes my skills and experiences for employers.
