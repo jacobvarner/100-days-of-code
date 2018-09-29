@@ -349,3 +349,7 @@ Added the ability for users to register and then added password encryption with 
 ### R1D82
 
 I moved all of my route and authorization code to separate modules in order to start cleaning up my application arhitecture. I also spent some time finishing up my [blog post](https://medium.com/@jacobvarner/my-name-is-jacob-varner-and-this-is-why-you-should-hire-me-d967181a7fe0) that summarizes my skills and experiences for employers.
+
+### R1D83
+
+Today I added the ability to login with Github. This required me setting up an authorization application on Github and then handling the routes in my web app. If a user was authenticated via Github, they are updated in the database and sent to their profile similar to before.
