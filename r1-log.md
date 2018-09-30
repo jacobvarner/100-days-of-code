@@ -353,3 +353,7 @@ I moved all of my route and authorization code to separate modules in order to s
 ### R1D83
 
 Today I added the ability to login with Github. This required me setting up an authorization application on Github and then handling the routes in my web app. If a user was authenticated via Github, they are updated in the database and sent to their profile similar to before.
+
+### R1D84
+
+I finished up the final freeCodeCamp challenges in the Advanced Node and Express section of the Information Security and Quality Assurance certification by building a simple chat client using Socket.IO. Now all I need to do is complete the five remaining projects and I will have attained all of the freeCodeCamp certifications and can move on to studying and preparing more for job interviews.
