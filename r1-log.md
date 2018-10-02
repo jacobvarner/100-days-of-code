@@ -357,3 +357,7 @@ Today I added the ability to login with Github. This required me setting up an a
 ### R1D84
 
 I finished up the final freeCodeCamp challenges in the Advanced Node and Express section of the Information Security and Quality Assurance certification by building a simple chat client using Socket.IO. Now all I need to do is complete the five remaining projects and I will have attained all of the freeCodeCamp certifications and can move on to studying and preparing more for job interviews.
+
+### R1D85
+
+Started to layout functional tests for my unit converter application. Tomorrow I will try to finish writing the tests and start adding functionality to the application.
