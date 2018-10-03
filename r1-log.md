@@ -361,3 +361,8 @@ I finished up the final freeCodeCamp challenges in the Advanced Node and Express
 ### R1D85
 
 Started to layout functional tests for my unit converter application. Tomorrow I will try to finish writing the tests and start adding functionality to the application.
+
+
+### R1D86
+
+I finished the tests and the functionallity for my unit converter Node.js application. The tests were helpful in knowing which things were working as soon as I implemented them, but a few tests I had to go back and tweak because there was clearly an error in the test instead of the code. I like the idea of writing tests before I start, but it is clear that won't be the last time I touch the tests.
