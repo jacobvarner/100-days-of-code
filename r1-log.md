@@ -370,3 +370,7 @@ I finished the tests and the functionallity for my unit converter Node.js applic
 ### R1D87
 
 I started my issue tracker project for my freeCodeCamp certification and set up the database and wrote my first version of the functional tests. It'll be interesting to see how much I have to tweak the tests to make them work correctly after last time.
+
+### R1D88
+
+I fixed the front end of the issue tracker and got the forms to link with the API. I am still working to confirm that the data is coming through as expected so that I can then store it in the database.
