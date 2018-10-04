@@ -366,3 +366,7 @@ Started to layout functional tests for my unit converter application. Tomorrow I
 ### R1D86
 
 I finished the tests and the functionallity for my unit converter Node.js application. The tests were helpful in knowing which things were working as soon as I implemented them, but a few tests I had to go back and tweak because there was clearly an error in the test instead of the code. I like the idea of writing tests before I start, but it is clear that won't be the last time I touch the tests.
+
+### R1D87
+
+I started my issue tracker project for my freeCodeCamp certification and set up the database and wrote my first version of the functional tests. It'll be interesting to see how much I have to tweak the tests to make them work correctly after last time.
