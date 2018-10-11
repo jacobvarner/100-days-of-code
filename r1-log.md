@@ -374,3 +374,7 @@ I started my issue tracker project for my freeCodeCamp certification and set up 
 ### R1D88
 
 I fixed the front end of the issue tracker and got the forms to link with the API. I am still working to confirm that the data is coming through as expected so that I can then store it in the database.
+
+### R1D89
+
+After a few days of a break due to a very busy week and getting burned out on the freeCodeCamp projects, I finally made it back to my project. I ended up switching to Mongoose for the database and then finishing the post route which creates an issue on a project.
