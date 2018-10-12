@@ -378,3 +378,7 @@ I fixed the front end of the issue tracker and got the forms to link with the AP
 ### R1D89
 
 After a few days of a break due to a very busy week and getting burned out on the freeCodeCamp projects, I finally made it back to my project. I ended up switching to Mongoose for the database and then finishing the post route which creates an issue on a project.
+
+### R1D90
+
+I completed the functionailty for the PUT, GET, and DELETE routes. I then fixed the wording in my code and tests in order to make sure all 11 tests were passsing. This completes my Issue Tracker project.
