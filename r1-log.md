@@ -382,3 +382,7 @@ After a few days of a break due to a very busy week and getting burned out on th
 ### R1D90
 
 I completed the functionailty for the PUT, GET, and DELETE routes. I then fixed the wording in my code and tests in order to make sure all 11 tests were passsing. This completes my Issue Tracker project.
+
+### R1D91
+
+Starting to get a hang of these simple Node.js apps. Today I was able to write my tests, build all of the functionality for my personal library project, and then make all tests past in one sitting. Two more projects to go.
