@@ -386,3 +386,7 @@ I completed the functionailty for the PUT, GET, and DELETE routes. I then fixed 
 ### R1D91
 
 Starting to get a hang of these simple Node.js apps. Today I was able to write my tests, build all of the functionality for my personal library project, and then make all tests past in one sitting. Two more projects to go.
+
+### R1D92
+
+I started my stock price checking app by completing the functional tests. I then spent quite a bit of time trying to figure out how to do the price lookups with an API call the right way. Promises and callbacks keep throwing me for a loop, and I'm going to try and approach it with async/await tomorrow to see where I can get with that.
