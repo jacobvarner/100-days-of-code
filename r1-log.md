@@ -390,3 +390,7 @@ Starting to get a hang of these simple Node.js apps. Today I was able to write m
 ### R1D92
 
 I started my stock price checking app by completing the functional tests. I then spent quite a bit of time trying to figure out how to do the price lookups with an API call the right way. Promises and callbacks keep throwing me for a loop, and I'm going to try and approach it with async/await tomorrow to see where I can get with that.
+
+### R1D93
+
+After another hiatus due to school and other life craziness, I made it back to put some more time into my stock price checker application. Once again, I struggled to stay focus. I think I have wrapped my head around the Promises for the http request, although I swear it should be easier just to get one tiny bit of data. Because most of my time is wasted on these last projects that have no meaning to me, I've decided to abandon the final freeCodeCamp certification for now and plan to focus on algorithms and working on bigger personal projects to practice React and a little bit of Node.js when needed. It has gotten hard for me to justify working on weird random projects when I have so little time and desire to work on them just for a certification. I'm hoping I can get in another groove and finish out the #100DaysOfCode, even if it ended on a struggling note.
